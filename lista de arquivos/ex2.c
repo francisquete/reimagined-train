@@ -1,5 +1,5 @@
-// exercicio 2 lista 6
-// ler o arquivo dados.txt, exercicio 1 da lista
+// exercicio 2
+// ler o arquivo dados.txt (gerado na execução do exercicio 1 dessa lista)
 
 #include <stdio.h>
 #include <stdlib.h>
