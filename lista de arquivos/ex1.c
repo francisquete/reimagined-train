@@ -1,4 +1,4 @@
-// exercicio 1 lista 6
+// exercicio 1 
 // programa que cria o arquivo dados.txt, 1-100, 1 numero por linha
 
 #include <stdio.h>
