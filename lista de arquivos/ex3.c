@@ -1,4 +1,4 @@
-// exercicio 3 da lista 6
+// exercicio 3 da lista de arquivos
 // ler o arquivo linha por linha enumerando-as na tela
 
 #include <stdio.h>
